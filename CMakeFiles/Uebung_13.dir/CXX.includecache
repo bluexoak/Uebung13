@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/docker/Uebung13/Student.h
+string
+-
+
+/mnt/docker/Uebung13/Uebung13_main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+algorithm
+-
+Student.h
+/mnt/docker/Uebung13/Student.h
+

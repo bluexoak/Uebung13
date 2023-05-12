@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Uebung_13.dir/Uebung13_main.cpp.o CMakeFiles/Uebung_13.dir/Student.cpp.o  -o Uebung_13 

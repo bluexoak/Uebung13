@@ -1,0 +1,13 @@
+matrikelnummer,vorname,name,vorlesung,note
+0001,max,maier,programmieren,1.0
+0002,peter,mueller,statistik,5.0
+0003,lisa,mustermann,programmieren,1.0
+0003,lisa,mustermann,statistik,1.0
+0001,max,maier,statistik,3.0
+0002,peter,mueller,programmieren,5.0
+0004,albert,einstein,physik,5.0
+0005,Elon,Musk,aerospace engineering,1.0
+0005,Elon,Musk,automotive engineering,2.0
+
+
+

@@ -1,0 +1,3 @@
+/mnt/docker/Uebung13/CMakeFiles/rebuild_cache.dir
+/mnt/docker/Uebung13/CMakeFiles/edit_cache.dir
+/mnt/docker/Uebung13/CMakeFiles/Uebung_13.dir
